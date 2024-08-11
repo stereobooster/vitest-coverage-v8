@@ -23,7 +23,3 @@ File            | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s
 ## istanbul coverage
 
 ![](./istanbul.png)
-
-As you can see `istanbul` coverage much more consistent and precise.
-
-Not sure, though, why it counts 4 branches in total and not 3.
