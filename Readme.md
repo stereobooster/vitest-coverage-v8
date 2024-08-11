@@ -1,5 +1,7 @@
 # coverage examples
 
+This is deprecated repo. See this one instead https://github.com/stereobooster/test-coverage-calculation
+
 ## C8
 
 ```
